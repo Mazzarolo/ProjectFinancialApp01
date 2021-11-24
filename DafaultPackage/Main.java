@@ -14,9 +14,9 @@ public class Main {
 
             File pdfFile = new File ("src/nota.pdf");
 
-            PDDocument doc = Loader.loadPDF(pdfFile); // creating instance of pdfDoc
+            PDDocument doc = Loader.loadPDF(pdfFile);
 
-            doc.addPage(new PDPage()); // adding page in pdf doc file
+            doc.addPage(new PDPage());
 
             PDFTextStripper pdfStripper = new PDFTextStripper();
 
