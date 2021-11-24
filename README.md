@@ -1,2 +1,2 @@
-# ProjectFinancialApp01
-ProjectFinancialApp test 01
+# Projeto do Aplicativo de Finanças
+Teste número 01
